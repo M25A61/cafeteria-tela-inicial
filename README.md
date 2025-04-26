@@ -24,4 +24,5 @@ A página contém:
 
 1. Faça o download ou clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/cafeteria-tela-inicial.git
+ [  git clone https://github.com/seu-usuario/cafeteria-tela-inicial.git](https://github.com/M25A61/cafeteria-tela-inicial
+)
